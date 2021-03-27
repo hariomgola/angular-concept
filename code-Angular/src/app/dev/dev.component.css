@@ -1,0 +1,12 @@
+.success{
+    color: green;
+}
+.half{
+    color: orange;
+}
+.failed{
+    color: red;
+}
+.Style{
+    font-style: italic;
+}
